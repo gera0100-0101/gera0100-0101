@@ -22,7 +22,7 @@ Made some games on Unity, apps, bots.<br>
 
 ### 🎮 Gray Cat - [Repository Link](https://github.com/gera0100-0101/Grey-Cat)
 My little 2D runner game, with shooter elements.<br>
-This game has been maded on Unity for Android OS.<br>
+This game has been made on Unity for Android OS.<br>
 It's unreleased game, but you can watch [Tech Demo on Youtube](https://youtu.be/YaC_6U75H8k).
 
 ### 🎮 Max Payne 2D - [Repository Link](https://github.com/gera0100-0101/Max-Payne-2d)
