@@ -1,7 +1,7 @@
 ## Hi, im Gera 👋
 
 I'm computer science student.<br>
-My first programming language was C#, so it's my favorite one ^^<br>
+My main programming language is C#<br>
 Made some games on Unity, apps, bots.<br>
 
 ---
@@ -39,10 +39,6 @@ It suppose to be Notion App, but for now it's just a telegram bot.<br>
 - Telegram: @v_gerich
 - Email: v.saparbaev@mail.ru (*Recommended*)
 - Gmail: v.saparbaev41@gmail.com
-
-## 🔍 Learning now
-- Linux Ununtu (will install arch soon🙏)
-- C/C++
 
 <!--
 **gera0100-0101/gera0100-0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
